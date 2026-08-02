@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# ChromaDB persistent storage
+chroma_db/
+chroma/
+
+# Data
+data/raw/
+data/processed/*.jsonl
+data/processed/*.pkl
+
+# Models
+models/
+*.bin
+*.safetensors
+*.gguf
+
+# Logs
+logs/
+*.log
+
+# Evaluation outputs
+evaluation/results/

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "What is the punishment for theft under IPC?",
+    "expected_answer": "Imprisonment up to 3 years, or fine, or both, under Section 379 of the Indian Penal Code.",
+    "category": "factual",
+    "source_doc": "IPC Section 379"
+  },
+  {
+    "id": 2,
+    "question": "Can a person be tried twice for the same offence?",
+    "expected_answer": "No. Article 20(2) of the Constitution of India and Section 300 of CrPC bar double jeopardy — no person shall be prosecuted and punished twice for the same offence.",
+    "category": "constitutional",
+    "source_doc": "Constitution Article 20"
+  },
+  {
+    "id": 3,
+    "question": "What is the GST rate for restaurant services?",
+    "expected_answer": "5% GST on standalone restaurants (no ITC) and 18% with ITC for restaurants in hotel premises (tariff ≥ ₹7,500).",
+    "category": "taxation",
+    "source_doc": "GST Act / CGST notifications"
+  },
+  {
+    "id": 4,
+    "question": "Define 'cybercrime' under the IT Act.",
+    "expected_answer": "The IT Act 2000 does not define 'cybercrime' as a single term. It defines offences in Sections 43-66, including unauthorized access (Sec 43), tampering with computer source documents (Sec 65), and publishing obscene material (Sec 67).",
+    "category": "factual",
+    "source_doc": "IT Act 2000 Sections 43-66"
+  },
+  {
+    "id": 5,
+    "question": "What are the fundamental rights guaranteed by the Constitution?",
+    "expected_answer": "The six fundamental rights are: Right to Equality (Art 14-18), Right to Freedom (Art 19-22), Right against Exploitation (Art 23-24), Right to Freedom of Religion (Art 25-28), Cultural and Educational Rights (Art 29-30), and Right to Constitutional Remedies (Art 32).",
+    "category": "constitutional",
+    "source_doc": "Constitution Part III"
+  },
+  {
+    "id": 6,
+    "question": "What is the punishment for murder under IPC?",
+    "expected_answer": "Section 302 IPC: death penalty, or imprisonment for life, and fine.",
+    "category": "factual",
+    "source_doc": "IPC Section 302"
+  },
+  {
+    "id": 7,
+    "question": "How is the President of India elected?",
+    "expected_answer": "By an electoral college consisting of elected members of both Houses of Parliament and elected members of State Legislative Assemblies, through proportional representation with single transferable vote (Article 54).",
+    "category": "constitutional",
+    "source_doc": "Constitution Article 54"
+  },
+  {
+    "id": 8,
+    "question": "What is Section 498A IPC?",
+    "expected_answer": "Section 498A deals with cruelty by husband or his relatives towards a married woman — punishable with imprisonment up to 3 years and fine.",
+    "category": "factual",
+    "source_doc": "IPC Section 498A"
+  },
+  {
+    "id": 9,
+    "question": "When was the Right to Education made a fundamental right?",
+    "expected_answer": "Through the 86th Constitutional Amendment (2002), the Right to Education for children aged 6-14 was added as Article 21A, and made operational by the Right of Children to Free and Compulsory Education Act, 2009.",
+    "category": "constitutional",
+    "source_doc": "Constitution 86th Amendment"
+  },
+  {
+    "id": 10,
+    "question": "What is the limitation period for filing a civil suit for breach of contract?",
+    "expected_answer": "Under the Limitation Act 1963, the period is 3 years from the date the cause of action arose (Article 55).",
+    "category": "procedural",
+    "source_doc": "Limitation Act 1963, Article 55"
+  },
+  {
+    "id": 11,
+    "question": "What is the role of the Supreme Court of India?",
+    "expected_answer": "Apex court under Article 124, with original, appellate, and advisory jurisdiction. Hears appeals from High Courts, resolves disputes between states/governments, and has the power of judicial review.",
+    "category": "constitutional",
+    "source_doc": "Constitution Article 124-147"
+  },
+  {
+    "id": 12,
+    "question": "What is phishing under the IT Act?",
+    "expected_answer": "Phishing isn't explicitly defined in the IT Act, but Section 66D punishes 'cheating by personation using communication device/computer resource' with imprisonment up to 3 years and fine — most phishing prosecutions are under this section.",
+    "category": "factual",
+    "source_doc": "IT Act Section 66D"
+  },
+  {
+    "id": 13,
+    "question": "What is the rule against hearsay evidence?",
+    "expected_answer": "Under the Indian Evidence Act 1872, hearsay is generally inadmissible (Section 60). Oral evidence must be direct. There are exceptions (Section 17, dying declarations, etc.).",
+    "category": "procedural",
+    "source_doc": "Indian Evidence Act Section 60"
+  },
+  {
+    "id": 14,
+    "question": "Define 'company' under the Companies Act 2013.",
+    "expected_answer": "Section 2(20): A company means a company incorporated under this Act or under any previous company law. Includes private companies, public companies, one-person companies, and foreign companies.",
+    "category": "factual",
+    "source_doc": "Companies Act 2013 Section 2(20)"
+  },
+  {
+    "id": 15,
+    "question": "What is anticipatory bail under CrPC?",
+    "expected_answer": "Section 438 CrPC allows a person to seek bail in anticipation of arrest for a non-bailable offence. High Court or Court of Session may grant it if they believe the person may be falsely implicated.",
+    "category": "procedural",
+    "source_doc": "CrPC Section 438"
+  },
+  {
+    "id": 16,
+    "question": "What are the requirements for a valid contract under the Indian Contract Act?",
+    "expected_answer": "Section 10: Agreement + enforceable by law. Requires offer, acceptance, lawful consideration, lawful object, free consent, and parties competent to contract (age 18+, sound mind).",
+    "category": "factual",
+    "source_doc": "Indian Contract Act Section 10"
+  },
+  {
+    "id": 17,
+    "question": "What is the FDI limit in Indian e-commerce?",
+    "expected_answer": "100% FDI is allowed in B2B e-commerce. In B2B e-commerce, 100% FDI is allowed under automatic route. In inventory-based B2C e-commerce, 100% FDI is allowed but the marketplace model (B2C marketplace) restricts FDI to 100% under automatic route while inventory model is not allowed for foreign companies.",
+    "category": "policy",
+    "source_doc": "DPIIT Press Note 2/2018"
+  },
+  {
+    "id": 18,
+    "question": "What is the difference between bailable and non-bailable offence?",
+    "expected_answer": "Bailable offence: Police can grant bail (Schedule 1, CrPC). Non-bailable: Bail is at the discretion of the court. Murder, rape, kidnapping are typically non-bailable.",
+    "category": "procedural",
+    "source_doc": "CrPC Schedule 1"
+  },
+  {
+    "id": 19,
+    "question": "What is the warranty of merchantability under Indian law?",
+    "expected_answer": "Indian Sale of Goods Act 1930, Section 16 implies a condition that goods are of merchantable quality — fit for the purpose for which goods of that kind are commonly bought.",
+    "category": "factual",
+    "source_doc": "Sale of Goods Act Section 16"
+  },
+  {
+    "id": 20,
+    "question": "What's the weather in Mumbai?",
+    "expected_answer": "Out of scope — should be flagged as not a legal question. Dharma.AI should politely decline.",
+    "category": "out_of_scope",
+    "source_doc": "N/A"
+  }
+]
